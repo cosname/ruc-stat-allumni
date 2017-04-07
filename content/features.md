@@ -1,9 +1,7 @@
-+++
-date = "2017-02-05T07:51:49+01:00"
-title = "Features"
-draft = false
-
-+++
+---
+date: 2017-02-05T07:51:49+01:00
+title: Features
+---
 
 Some of Crab's features are:
 

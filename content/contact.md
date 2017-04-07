@@ -1,9 +1,7 @@
-+++
-date = "2017-03-18T10:59:56+01:00"
-title = "Contact"
-draft = false
-
-+++
+---
+date: 2017-03-18T10:59:56+01:00
+title: Contact
+---
 
 {{% summary %}}
 This is a an example contact page.

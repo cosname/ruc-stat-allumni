@@ -1,9 +1,7 @@
-+++
-date = "2017-03-18T11:14:41+01:00"
-title = "Two-column layout"
-draft = false
-
-+++
+---
+date: 2017-03-18T11:14:41+01:00
+title: Two-column layout
+---
 
 {{% summary %}}
 This is what sidebar content looks like.

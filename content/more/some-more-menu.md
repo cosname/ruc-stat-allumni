@@ -1,9 +1,7 @@
-+++
-date = "2017-02-05T07:51:49+01:00"
-title = "Some more menu ..."
-draft = false
-
-+++
+---
+date: 2017-02-05T07:51:49+01:00
+title: Some more menu ...
+---
 
 In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam
 dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.

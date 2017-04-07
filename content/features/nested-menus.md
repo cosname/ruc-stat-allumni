@@ -1,9 +1,7 @@
-+++
-title = "Nested menus"
-date = "2017-03-18T11:14:35+01:00"
-draft = false
-
-+++
+---
+date: 2017-03-18T11:14:35+01:00
+title: Nested menus
+---
 
 Crab supports nested menus up to three levels deep.
 

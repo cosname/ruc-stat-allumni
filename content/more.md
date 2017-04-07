@@ -1,9 +1,7 @@
-+++
-date = "2017-03-19T13:21:00+01:00"
-title = "More"
-draft = false
-
-+++
+---
+date: 2017-03-19T13:21:00+01:00
+title: More
+---
 
 Here are a few more demo pages:
 

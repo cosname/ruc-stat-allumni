@@ -1,9 +1,7 @@
-+++
-date = "2017-02-05T07:51:49+01:00"
-title = "... the nested menus feature"
-draft = false
-
-+++
+---
+date: 2017-02-05T07:51:49+01:00
+title: '... the nested menus feature'
+---
 
 Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum.
 Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur

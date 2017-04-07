@@ -1,9 +1,7 @@
-+++
-date = "2017-02-05T07:51:49+01:00"
-title = "... items to show ..."
-draft = false
-
-+++
+---
+date: 2017-02-05T07:51:49+01:00
+title: '... items to show ...'
+---
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
 commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus

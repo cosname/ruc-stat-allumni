@@ -1,9 +1,7 @@
-+++
-date = "2017-03-27T21:30:00+01:00"
-draft = false
-title = "Welcome to my blog"
-
-+++
+---
+date: 2017-03-27T21:30:00+01:00
+title: Welcome to my blog
+---
 
 This page is intended to give you a feeling of what a blog post looks
 like. Crab supports both fixed (static) pages as well as blog posts.

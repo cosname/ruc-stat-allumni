@@ -1,9 +1,7 @@
-+++
-date = "2017-03-18T11:14:30+01:00"
-title = "Responsive design"
-draft = false
-
-+++
+---
+date: 2017-03-18T11:14:30+01:00
+title: Responsive design
+---
 
 Crab's design is responsive, it adapts to smaller screens of mobile
 devices.

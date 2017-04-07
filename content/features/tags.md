@@ -1,10 +1,13 @@
-+++
-date = "2017-03-19T13:21:00+01:00"
-title = "Tags"
-draft = false
-tags = ["this", "page", "has", "some", "tags"]
-
-+++
+---
+date: 2017-03-19T13:21:00+01:00
+tags:
+- this
+- page
+- has
+- some
+- tags
+title: Tags
+---
 
 Crab also supports tags. This page has some tags, as you can see
 below, although tags are probably more common with blog posts.
