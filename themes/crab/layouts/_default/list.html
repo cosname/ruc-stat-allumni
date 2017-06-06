@@ -4,7 +4,7 @@
 
   {{ range sort .Paginator.Pages }}
     <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-    <p class="timestamp">{{ .Date.Format "2006/01/02" }}</p>
+    <p class="timestamp">{{ with .Params.author }}{{ . }} &vellip; {{ end }} {{ .Date.Format "2006/01/02" }}</p>
     <div class="content">
     {{ .Summary | plainify | safeHTML }}
     {{ if .Truncated }}

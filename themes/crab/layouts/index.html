@@ -1,5 +1,5 @@
 {{ partial "header.html" . }}
-  {{ range where .Data.Pages "Title" "Home" }}
+  {{ range where .Data.Pages "File.Path" "home.md" }}
     {{ .Content }}
   {{ end }}
 {{ partial "footer.html" . }}

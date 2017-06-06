@@ -27,4 +27,4 @@
       <div id="content">
 
         <div id="article">
-	  <h1>{{ .Title }}</h1>
+	  <h1>{{ if .IsPage }}{{ .Title }}{{ end }}</h1>
